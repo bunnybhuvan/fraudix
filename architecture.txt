@@ -1,0 +1,11 @@
+User
+  ↓
+Frontend (fraudix.html)
+  ↓
+Backend API (Express Server)
+  ↓
+Fraud Detection Engine
+  ↓
+Decision Engine (Approve / Flag / Reject)
+  ↓
+Database (Transaction Storage)
